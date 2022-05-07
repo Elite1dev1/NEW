@@ -1,0 +1,4 @@
+https://unpkg.com/ionicons@5.4.0/dist/ionicons.js
+https://www.zyxware.com/articles/5008/who-is-a-content-developer-and-what-are-the-basic-skills-and-qualifications-required
+https://careerfoundry.com/en/blog/ui-design/what-does-a-ui-designer-actually-do/
+https://careerfoundry.com/en/blog/web-development/what-does-it-take-to-become-a-web-developer-everything-you-need-to-know-before-getting-started/
